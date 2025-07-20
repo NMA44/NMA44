@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 Currently working on web development technologies like JavaScript, React , Redux, Node.js, Express, MongoDB , PostgreSQL , etc. .<br> 📚 I am learning everything about Frontend and Backend technologies <br> 💪🏼 Future Goals: Keep learning more technologies - TypeScript , Nest.js<br> ⚡ Fun fact: I like to read with a good coffee.
+👨‍💻 Currently working on web development technologies like JavaScript, React , Redux, Node.js, Express, MongoDB , PostgreSQL , etc. .<br> 📚 I am learning everything about Frontend and Backend technologies <br> 💪🏼 Future Goals: Keep learning more technologies - TypeScript , Nest.js<br> ⚡ Fun fact: I like to read with a good coffee.<br>
 [![Ver proyectos en GitLab](https://img.shields.io/badge/ver%20proyectos%20en-GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/nicolas1909)
 
 ## 🌐 Socials:
